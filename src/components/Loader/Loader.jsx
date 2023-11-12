@@ -8,7 +8,8 @@ export const Loader = () => {
       color="#4fa94d"
       wrapperStyle={{
         position: 'absolute',
-        left: '50%',
+        left: '47%',
+        top: '47%',
       }}
       wrapperClass="loader"
       visible={true}
